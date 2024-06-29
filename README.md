@@ -1,4 +1,4 @@
-# Carbon Emissions Calculator App
+# CarbonConscious : See Your Impact, Shape a Better Future
 
 ## Overview
 
